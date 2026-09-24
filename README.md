@@ -1,7 +1,7 @@
 
-I am a full stack dev using Laravel + Nextjs ✨
+I am a full stack dev using Nextjs + Node ✨
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,nodejs)](https://skillicons.dev)
 
 What I use for Hobby (reverse engineering, web scraping)
 <br/>
